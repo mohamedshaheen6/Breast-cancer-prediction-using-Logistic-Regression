@@ -1,1 +1,1 @@
-# Brest-cancer-prediction-using-Logistic-Regression
+# Breast-cancer-prediction-using-Logistic-Regression
